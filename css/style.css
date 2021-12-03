@@ -45,7 +45,7 @@ h1 {
 }
 
 .active {
-    background-image: linear-gradient(magenta, purple, magenta);
+    background-image: linear-gradient(to bottom right, red , blue);
 }
 
 button:hover {
